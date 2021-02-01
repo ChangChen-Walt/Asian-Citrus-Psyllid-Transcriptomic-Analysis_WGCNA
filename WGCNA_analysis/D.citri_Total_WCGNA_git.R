@@ -175,5 +175,3 @@ for(modules in totalColor){
         modProbes = probes[inModule]
         write.table(modProbes,paste(modules,".txt",sep=""),col.names = F, row.names = F,quote=F)
 }
-
-
