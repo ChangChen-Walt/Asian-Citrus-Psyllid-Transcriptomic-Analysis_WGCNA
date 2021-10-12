@@ -1,4 +1,4 @@
-# Asian-Citrus-Psyllid-Transcriptomic-Analysis_Using-WGCNA
+# Asian Citrus Psyllid Transcriptomic Analysis Using WGCNA
 
 In this repo, the code achieves following outcomes
 * Detect transcriptional shifts in Diaphorina citri during Candidatus Liberibacter asiaticus infection
