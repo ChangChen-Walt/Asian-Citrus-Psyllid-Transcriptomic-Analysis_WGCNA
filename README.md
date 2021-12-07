@@ -7,3 +7,5 @@ In this repo, the code achieves following outcomes
 * Analyze functional enrichment data with GOanna, InterProScan and KOBAS
 
 This project was accepted as conference proceedings by 1st International Electronic Conference on Entomology (IECE) in July 2021 and the manuscript is included. 
+
+test vscode update
